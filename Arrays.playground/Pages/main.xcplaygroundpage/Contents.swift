@@ -46,7 +46,7 @@ var cheeseSandwich: [String] = ["Bread", "Butter", "Cheese", "Lettuce", "Tomatoe
 /*: question5
  ### 5. Create a second array called 'dessertList' with a type specified using and contains the string values "Cookie dough", "Icecream"
  */
-var dessertList: [String] = ["Cookie dough", "Icecream"]
+var desertList: [String] = ["Cookie dough", "Icecream"]
 
 
 
@@ -117,7 +117,7 @@ print(lifesEssential(shoppingList))
 /*: question11
  ### 11. Pass the 'desertList' array to the 'lifesEssential' function and print the result.
  */
-print(lifesEssential(dessertList))
+print(lifesEssential(desertList))
 
 
 
